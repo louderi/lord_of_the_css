@@ -1,0 +1,69 @@
+body {
+background-image: url("http://www.sclance.com/backgrounds/dark-seamless-background/dark-seamless-background_774074.jpg");
+}
+p{
+ background-color: rgba(255,255,255,0.18);
+ border-radius: 5%;
+ text-indent: 1em;
+ word-spacing: 0.1em;
+ line-height: 1.5em;
+ font-size: 1.3em;
+ margin: 1em;
+ padding: 1.2em;
+
+}
+div{
+  background-image: url("https://i.pinimg.com/originals/19/a2/43/19a243891755e22a975431f9888e373b.png");
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-attachment: fixed;
+  background-position: bottom left;
+}
+h1 {
+  font-family: 'Vollkorn SC', serif;
+  border-bottom: 2px dashed black;
+  text-align: center;
+  color: #6E6E6E;
+  letter-spacing: 0.9em;
+}
+h2 {
+  color: #5C5C5C;
+  text-align: center;
+  font-family: 'Vibes', cursive;
+  font-size: 4.5em;
+}
+h3 {
+  color:#3B3D44;
+  font-size: 0.7em
+}
+h4 {
+  color:#2F3031;
+  font-size:1.2em;
+  text-align: center;
+  line-height: -1.5em;
+}
+h6 {
+ background-image: url("https://github.com/louderi/images/blob/master/lotrbcyes.png?raw=true");
+}
+ 
+a{
+  text-decoration: none;
+  color: #3B3D44;
+}
+article {
+  padding: 20px 260px 20px 260px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.fade
+{
+  opacity:0.5;
+}
+.fade:hover {
+  opacity: 1
+}
+.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
